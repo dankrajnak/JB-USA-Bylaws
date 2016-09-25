@@ -1,5 +1,3 @@
-
-
 CISV USA Junior Branch Book of Procedures
 SECTION 1:  JUNIOR BRANCH MEMBERS 
 A.  DEFINITION
@@ -38,7 +36,7 @@ A.  DEFINITION
 B.  POSITIONS AND SPECIFIC RESPONSIBILITIES
 1.   The Senior National Junior Representative 
 a. The final year of a two-year elected position, beginning with a year in service as the Junior National Junior Representative [see Section 3, Article B].
-1. Chair the National Committee for Leadership Development (NCLD), [see Section 5]. As such, the Senior National Junior Representative holds the responsibility of a committee chair as laid out in Section 4 of the CISV USA, Inc., Book of Procedures.
+1. Chair either  the National Committee for Leadership Development (NCLD), [see Section 5] or the National Junior Board of Trustees [see Section 8]. As such, the Senior National Junior Representative holds the responsibility of a committee chair as laid out in Section 4 of the CISV USA, Inc., Book of Procedures.
 2. Collaborate with the Junior National Junior Representative in all Junior Branch USA matters, including but not limited to trainings, workshops, and visioning.
 3.  Serve as the communication branch with the International Junior Branch and Americas’ Junior Branch.
 4.  Update consistently the Junior Branch section of the CISV USA, Inc. Book of Procedures.
@@ -46,7 +44,7 @@ a. The final year of a two-year elected position, beginning with a year in servi
 b. In the event of death, resignation, temporary inability to perform, or removal of the Senior National Junior Representative, the Junior National Junior Representative shall fulfill the remainder of the term.
 2.   The Junior National Junior Representative 
 a. The Junior National Junior Representative shall be elected for a one-year term with the stipulation that after a year, the Junior National Junior Representative will transition to the Senior National Junior Representative [see Section 3, Article B]. The Junior National Junior Representative shall be elected yearly by a vote of the Junior Branch Presidents.
-1. Chair the National Junior Board of Trustees.
+1. Chair either the National Committee for Leadership Development (NCLD) [see Section 5] or the National Junior Board of Trustees [see Section 8].  As such the Junior National Junior Representative holds the responsibility of a committee chair as laid out in Section 4 of the CISV USA, Inc., Book of Procedures.
 2. Oversee the National Junior Board Meeting‘s Agenda. 
 3. Collaborate with the Senior National Junior Representative in all Junior Branch USA matters, including but not limited to trainings, workshops, and visioning.
 e. In the event of death, resignation, temporary inability to perform, or removal of the Junior National Junior Representative, the Senior National Junior Representative, and the National Committee for Leadership Development, shall appoint a new Junior National Junior Representative to serve the remainder of the term.
@@ -70,12 +68,16 @@ E.  QUALIFICATIONS:
 F.  ELECTION PROCEDURE
 1. All Candidates must complete the official Questionnaire form, which formally announces their candidacy as well as providing information about the candidate, both personal and in relation to CISV. This completed form must be submitted to the current National Junior Representatives by the specified deadline.
 2. The candidates will also participate in an open Question & Answer session facilitated by the Junior National Junior Representative.
-3. In the election of the National Junior Representative, the vote shall be held in a closed meeting of the Junior Branch Presidents, supervised by the Junior National Junior Representative and a parliamentarian of CISV USA. 
-a. Each Junior Branch chapter of CISV USA, Inc. carries one vote that is represented by their respective Junior Branch President. In the event that a Junior Branch President is a National Junior Representative candidate, a proxy will be required to vote in the place of the Junior Branch President in question. A proxy form must be submitted before the commencement of the election to the current Junior National Junior Representative. 
+3. In the election of the National Junior Representative, the vote shall be held in a closed meeting of the Junior Branch Presidents, supervised by the Senior National Junior Representative and the National Junior Branch Advisor. The Senior NJR is expected to act as a unbiased moderator and to ensure that the session complies with the Book of Procedures and runs effectively.  The Senior NJR is expected to factually answer questions pertaining to the clarification of provided materials but not to incorporate any outside information or personal opinion in doing so.  Opinion-based questions pertaining to individual candidates shall not be answered.  The Senior NJR must only read directly from applications or the transcript  from the question and answer session.  If the Senior NJR reads one candidates response to any question, they must read the responses of all candidates to the same question.  The current National Junior Branch Advisor will act as a support to the Senior NJR and will ensure that the Senior NJR is performing their required roles without bias.  The Junior NJR will also be present for the purpose of continuity and communication within JB USA leadership.  However, the Junior NJR must remove themself from the group, preferably in a position where the JB Presidents cannot see their face, and be silent unless directly called upon by the NJBaD, Senior NJR, or JB Presidents to answer a clarifying question the answer to which could not possibly present any bias.  During the sessions, the Junior NJR will be the minute keeper.
+a. Each Junior Branch chapter of CISV USA, Inc. carries one vote that is represented by their respective Junior Branch President. In the event that a Junior Branch President is a National Junior Representative candidate, a proxy will be required to vote in the place of the Junior Branch President in question. A proxy form must be submitted before the commencement of the election to the current Senior National Junior Representative. 
 1. A proxy shall be defined as another voting member that shall represent the chapter that appoints them, in addition to their own responsibilities.  The proxy must follow the voting decision that the absent member has given for that chapter’s vote.   
-b. In the event of a tie in the National Junior Representative election, the deciding vote will be cast by the CISV USA Board of Directors, which begins service at CISV USA’s Annual Meeting. A parliamentarian of CISV USA shall advise the local Junior Branches and the Board of Directors as to the outcome of each election.
+b. In the event of a tie in the National Junior Representative election, the deciding vote will be cast by the CISV USA Board of Directors, which begins service at CISV USA’s Annual Meeting. 
 c. In the instance where there are more than two candidates running, the election will be done in two rounds. In the first round, each chapter will cast one vote, and votes will be counted. In the second round, the two candidates who received the highest number of votes in the first round will be voted on in the same format. The candidate with the highest number of votes in the end of this round will be the new National Junior Representative.  
-4. The candidate who receives a 50% + 1 majority of the Junior Branch Presidents shall be declared the new Junior Branch Director.   
+4. The candidate who receives a 50% + 1 majority of the Junior Branch Presidents shall be declared the new Junior National Junior Representative.   
+5. If the election occurs at the National Junior Branch Meeting, then after the new NJR has been elected, the NJRs decide which of them will chair the NJBoT and which will chair the NCLD.  If a decision has not been reached by the time that the NJBoT elections are held and the NCLD slate approved, the Senior NJR will default to chairing the National Committee for Leadership Development and the Junior NJR will default to chairing the National Junior Board of Trustees.  Once the decision has been made of defaulted to, the roles of the NJRs remain unchanged until the next NJBM.  NJRs may not switch roles in the middle of the year
+a. If the new NJR is elected at NJBM but after the NCLD or NJBoT, a decision needs to be reached before the end of NJBM, or the Senior NJR defaults to chairing the NCLD and the Junior NJR defaults to chairing the NJBoT
+b. If a special election is held and for whatever reason the NJR is not elected during a National Junior Branch Meeting, or if there is less than 24 hours between when the NJR is elected and when NJBM ends, the NJRs need to make a decision within 24 hours or the Senior NJR defaults to chairing the NCLD and the Junior NJR defaults to chairing the NJBoT
+c. If there are special circumstances not covered above, for instance if an NJR is elected and cannot be contacted, the NJBoT will create and approve a procedure in order to reach a decision between the NJRs.  Or they may choose by a majority vote to have the roles default to the Senior NJR chairing the NCLD and the Junior NJR chairing the NJBoT.
 
 G.  EXPENSES
 1. The expenses of Junior Branch USA and National Junior Representatives originate from dues collected from local Junior Branches, fundraising, and the CISV USA, Inc. budget and are subject to annual approval of the CISV USA Board of Directors.
@@ -100,7 +102,7 @@ C. QUALIFICATIONS
 D. ELECTION PROCEDURE
 1. All Candidates must complete and submit the three required documents announcing their candidacy: the CISV USA Board of Directors Nomination Form, the CISV USA Board of Directors Candidate Profile, and the CISV USA Background Check Form. 
 2. CISV USA will conduct background checks on all CISV USA Board of Directors Candidates. 
-3. In the election of the Junior Branch Director, the vote shall be held in a closed meeting of the Junior Branch Presidents, supervised by the Junior National Junior Representative and a parliamentarian of CISV USA. 
+3. In the election of the Junior Branch Director, the vote shall be held in a closed meeting of the Junior Branch Presidents, supervised by the Senior National Junior Representative and the National Junior Branch Advisor.  The Senior NJR is expected to act as a unbiased moderator and to ensure that the session complies with the Book of Procedures and runs effectively.  The Senior NJR is expected to factually answer questions pertaining to the clarification of provided materials but not to incorporate any outside information or personal opinion in doing so.  Opinion-based questions pertaining to individual candidates shall not be answered.  The Senior NJR must only read directly from applications or the transcript  from the question and answer session.  If the Senior NJR reads one candidates response to any question, they must read the responses of all candidates to the same question.  The current National Junior Branch Advisor will act as a support to the Senior NJR and will ensure that the Senior NJR is performing their required roles without bias.  The Junior NJR will also be present for the purpose of continuity and communication within JB USA leadership.  However, the Junior NJR must remove themself from the group, preferably in a position where the JB Presidents cannot see their face, and be silent unless directly called upon by the NJBaD, Senior NJR, or JB Presidents to answer a clarifying question the answer to which could not possibly present any bias.  During the sessions, the Junior NJR will be the minute keeper.
 	a. Each Junior Branch chapter of CISV USA, Inc. carries one vote that is represented by their respective Junior Branch President. In the event that a Junior Branch President is a Junior Branch Director candidate, a proxy will be required to vote in the place of the Junior Branch President in question. A proxy form must be submitted before the commencement of the election to the current Junior National Junior Representative. 
 1. A proxy shall be defined as another voting member that shall represent the chapter that appoints them, in addition to their own responsibilities.  The proxy must follow the voting decision that the absent member has given for that chapter’s vote.   
 b. In the event of a tie in the Junior Branch Director election, the deciding vote shall be cast by the National Junior Representatives as a whole. 
@@ -132,7 +134,7 @@ D.  SLATING & ELECTION PROCEDURE FOR THE NATIONAL COMMITTEE FOR LEADERSHIP DEVE
 	•	A candidate who applies to the National Committee for Leadership Development may not apply for a position on the National Junior Board of Trustees in the same year.
 2. The Junior and Senior National Junior Representatives shall interview all potential candidates on the second day of the National Junior Board Meeting, either in person or by other means.
 3. After reviewing the applications and interviews, the Senior and Junior National Junior Representative shall select a slate of candidates for the National Committee for Leadership Development.
-4. The slate of candidates shall then be presented for approval to the Junior Branch Presidents of Junior Branch USA in a closed meeting, chaired by the Junior National Junior Representative and a parliamentarian of CISV USA.
+4. The slate of candidates shall then be presented for approval to the Junior Branch Presidents of Junior Branch USA in a closed meeting, chaired by the Senior National Junior Representative and National JB Advisor.  The Senior NJR is expected to act as a unbiased moderator and to ensure that the session complies with the Book of Procedures and runs effectively.  The Senior NJR is expected to factually answer questions pertaining to the clarification of provided materials but not to incorporate any outside information or personal opinion in doing so. The current National Junior Branch Advisor will act as a support to the Senior NJR and will ensure that the Senior NJR is performing their required roles without bias.  The Junior NJR will also be present for the purpose of continuity and communication within JB USA leadership.  However, the Junior NJR must remove themself from the group, preferably in a position where the JB Presidents cannot see their face, and be silent unless directly called upon by the NJBaD, Senior NJR, or JB Presidents to answer a clarifying question the answer to which could not possibly present any bias.  During the sessions, the Junior NJR will be the minute keeper.
 a. Each chapter of CISV USA, Inc. carries one vote, represented by their respective Junior Branch President. With the case that a Junior Branch President is a candidate, a proxy will be required to vote in the place of the Junior Branch President in question. A proxy form must be submitted before the commencement of the election to the current Junior National Junior Representative. 
 1. A proxy shall be defined as another voting member that shall represent the chapter that appoints them, in addition to their own responsibilities.  The proxy must follow the voting decision that the absent member has given for that chapter’s vote.   
 b. Approval of the slate requires a 50% + 1 majority of the Junior Branch Presidents.
@@ -193,7 +195,8 @@ a. Prior to the National Junior Board Meeting, the National Junior Representativ
 b. After reviewing the applications the National Junior Representatives will recommend a candidate for the National Junior Branch Advisor.
 c. The recommended candidate will be presented to the CISV USA Board of Directors for approval. 
 1. In the event that the CISV USA Board of Directors rejects the recommended candidate, the Board will be given the opportunity to discuss the candidate. The National Junior Representatives will then take the opinions of the Board into consideration and present another candidate for approval.
-d. The CISV USA Board of Directors approved candidate will then be presented for approval to the Junior Branch Presidents of Junior Branch USA in a closed meeting, chaired by the Junior National Junior Representative and a parliamentarian of CISV USA.
+d. The CISV USA Board of Directors approved candidate will then be presented for approval to the Junior Branch Presidents of Junior Branch USA in a closed meeting, chaired by the Senior National Junior Representative and a the current National JB Advisor.  The Senior NJR is expected to act as a unbiased moderator and to ensure that the session complies with the Book of Procedures and runs effectively.  The Senior NJR is expected to factually answer questions pertaining to the clarification of provided materials but not to incorporate any outside information or personal opinion in doing so.  Opinion-based questions pertaining to individual candidates shall not be answered.  The Senior NJR must only read directly from applications.  If the Senior NJR reads one candidates response to any question, they must read the responses of all candidates to the same question.  The current National Junior Branch Advisor will act as a support to the Senior NJR and will ensure that the Senior NJR is performing their required roles without bias.  The Junior NJR will also be present for the purpose of continuity and communication within JB USA leadership.  However, the Junior NJR must remove themself from the group, preferably in a position where the JB Presidents cannot see their face, and be silent unless directly called upon by the NJBaD, Senior NJR, or JB Presidents to answer a clarifying question the answer to which could not possibly present any bias.  During the sessions, the Junior NJR will be the minute keeper.
+	•	In the event that the current National Junior Branch Advisor is running for another term, the NJBAd must choose a proxy, matching their qualifications, to sit in for them.  In this case, the proxy must be familiar with the NJBAd’s role in plenary and be able to fulfill that position.
 e. Each chapter of CISV USA, Inc. carries one vote, represented by their respective Junior Branch President. With the case that the current National Junior Branch Advisor is a candidate, a proxy will be required to vote in the place of the National Junior Branch Advisor. A proxy form must be submitted before the commencement of the election to the current Junior National Junior Representative. 
 1. A proxy shall be defined as another voting member that shall represent the chapter that appoints them, in addition to their own responsibilities.  The proxy must follow the voting decision that the absent member has given for that chapter’s vote.   
 f. Approval of the candidate requires a 50% + 1 majority of the Junior Branch Presidents.
@@ -356,3 +359,91 @@ A decision on a motion cannot be counted as valid if any of the following is tru
 1. 5 or more chapters have not sent preliminary votes.
 2. National JB leadership changes after the plenary but before the vote.
 If a decision is found to be invalid, the NJBoT may move to discuss or move to vote again.
+
+
+SECTION 13: THE NATIONAL SERVICE PROJECT
+	•	DEFINITION
+	•	The National Service Project asks all JB chapters in CISV USA to complete a one-day service project very near in time to each other, ideally in the same month. These projects will all address or be inspired by an annual theme (example: literacy) that pertains to one of CISV’s four main educational content areas: Sustainability, Human Rights, Diversity, and Conflict Resolution. Elected positions to carry out the project are National Service Project Leaders (NSPLs), the National Service Project Committee (NSPC) members, and the National Service Project Committee Chair (NSPCC). 
+	•	NATIONAL SERVICE PROJECT LEADER  (NSPL)
+	•	Specific Responsibilites
+	•	Each NSPL will be repsonsible for mobilizing their chapter, organizing the service project, and making sure their projects meet the goals that the National Service Project has set forth.
+	•	Qualifications
+	•	Eagerness to engage local community
+	•	Desire to apply CISV’s educational content in their community
+	•	Time availability and communication skills needed to organize a day of service for their chapter
+	•	Election Procedure After The First Year:
+	•	NSPLs will be selected or elected by their local chapters by NJBM. 
+	•	NATIONAL SERVICE PROJECT COMMITTEE (NSPC)
+	•	Specific Responsibilities: 
+	•	Each NSPC member will be assigned to a region of CISV USA. Each NSPC member will be accountable for making sure each chapter in their region has a successful and smooth project. They will accomplish this by training the NSPL team and by being the first line of support for each NSPL in their region.
+	•	Qualifications:
+	•	Experience in running service projects
+	•	Desire to use CISV’s educational content to affect tangible change
+	•	Leadership skills needed to guide and support NSPLs
+	•	Teamwork skills needed to cooperate with the other NSPC members
+	•	Understanding of the mission of the NSP overall, and the goals of the year’s NSP
+	•	Time availability and communication skills needed to support NSPL’s and work as a team member with the other NSPC members
+	•	Understanding of CISV’s educational values
+	•	Election Procedure For the First Year:
+	•	NSPC candidates will apply to the NJRs before the end of NJBM. The NSPC will then be chosen by the new NSPCC (who has final say) and the former NSPCC (who may offer advice) by the end of NJBM.
+	•	NATIONAL SERVICE PROJECT COMMITTEE CHAIR  (NSPCC)
+	•	Specific Responsibilities:
+	•	The NSPCC is responsible for keeping the NSP on schedule, guiding and leading the NSPC, and making sure the whole NSP meets its goals.
+	•	Qualifications:
+	•	Experience in running service projects
+	•	Broad understanding of CISV’s educational values
+	•	Experience working on a CISV committee
+	•	Time availability and communication skills needed to run the NSPC and the NSP
+	•	Leadership skills needed to guide and support NSPC
+	•	Election Procedure After the First Year:
+	•	NSPCC candidates will apply to the NJRs and then be chosen by the NJRs and the past NSPCC by the first night of NJBM.
+	•	In the event of a NSPCC position vacancy, new NSPCC candidates will apply to and be chosen by the NJRs. It is strongly encouraged that the NJRs include the previous year’s NSPCC in the discussions leading to their decision on the new NSPCC.
+	•	ELECTION PROCEDURE FOR THESE POSITIONS AFTER THE FIRST YEAR 
+	•	NSPCC: Willing members of the current NJBoT will apply for NSPCC by a date decided by the NJRs. The election will occur by Thursday night of NJBM by the NJBoT and the NJRs.
+	•	NSPC: Applications must be submitted to the NJRs by Friday night of NJBM. The committee will be appointed by the NSPCC and announced with the other committees. 
+	•	NSPLs: Chapters will need to have a NSPL by December 1. They may hold elections, for which the NSPC can provide application templates, or find a leader however they deem fair. If necessary, guidance will be given to the chapters by the NSPC. 
+	•	REMOVAL PROCESS 
+	•	For National Service Project Committee Chair:
+	•	If the NSPCC should be removed, it is encouraged that a discussion is held in an attempt to find a solution other than removal.
+	•	If removal is deemed necessary, a consultation should occur with the National Junior Representatives and CISV Board of Directors about proceeding with removal.
+	•	If the National Junior Representatives approve the removal, the NSPCC in question is notified that they are being removed.
+	•	In the event of removal, the appointment procedures, which are stated under the NSPCC position, must be implemented.
+	•	For National Service Project Committee Member:
+	•	If a NSPC member should be removed, it is encouraged that a discussion is held in an attempt to find a solution other than removal.
+	•	If removal is deemed necessary, a consultation should occur with the National Junior Representatives and NSPCC about proceeding with removal.
+	•	If the National Junior Representatives and NSPCC approve the removal, the NSPC member in question is notified that they are being removed.
+	•	In the event of removal, the National Junior Representatives, with the advice and consent of the National Committee for Leadership Development and the Junior Branch Presidents, shall appoint a new member of the National Service Project Committee Member. 
+	•	WORKING GROUP
+	•	Summary
+	•	It is the opinion of a majority of NJBoT members that at the time of voting JB USA did not have the national capacity to support the National Service Project Committee. 
+	•	In the interest of the sustainability organization as a whole, it was decided to assign the above responsibilities to a more informal working group, led by an official national chair.
+	•	The NSP will be the responsibility of this working group until the National Junior Representatives at a time in the future decide that JB USA has the capacity for the NSPC.  At this time, the NSPC will be created and will assume full responsibilities described above and will be subject to the procedures described above.
+	•	National Service Project Working Group Chair
+	•	Responsibilities
+	•	Guide the work of the working group and ensure the success the National Service Project
+	•	Collaborate with the NJRs to select the members of the working group.
+	•	Serve as the go-to person for all things National Service Project and oversee all important decisions
+	•	Ensure that important info is passed on to the next National Service Project Chair
+	•	Schedule meetings for the working group
+	•	Election Procedure for the first year
+	•	The National Service Project Working Group Chair will be selected by the NJRs and NJBoT.  A candidate is elected if s/he recieves a simple majority of votes with each NJR and NJBoT member holding one vote.   
+	•	NJBoT members running for National Service Project Working Group Chair may not vote and may not have a proxy.  
+	•	If there is a tie, or if a consensus cannot be reached, the Junior NJR will cast the tie-breaking vote.  
+	•	Election Procedure for following years
+	•	The chair will be elected by the previous chair of the working group with consultation of the NJRs
+	•	National Service Project Working Group
+	•	Responsibilities
+	•	Ensure the success of the National Service Project
+	•	Educate and train National Service Project Leaders
+	•	Communicate with National Service Project Leaders
+	•	Assist National Service Project Leaders with carrying out local service projects
+	•	Update CISV USA about the National Service Project after it has happened
+	•	Use social media and other platforms to inform CISV USA about the National Service Project before it occurs
+	•	Act as a resource when needed with the recruitment and selection of local leaders
+	•	Selection Process for the first year
+	•	A short online form will be created including the responsibilities of the working group.  Those interested in the working group must complete the form before a deadline decided by the second night of NJBM at a time decided by the NJRs.  Those interested in the group will be selected at the discretion of the NJRs and National Service Project Working Group Chair.  The size of the working group should be 7-10 people.  
+	•	Selection For the Following Years
+	•	A short online form will be created including the responsibilities of the working group.  Those interested in the working group must complete the form before a deadline decided by the second night of NJBM at a time decided by the NJRs.  Those interested in the group will be selected at the discretion of the NJRs and National Service Project Working Group Chair and the previous National Service Project Working Group chair.  The size of the working group should be 7-10 people.  
+	•	Tranisition to National Committee
+	•	When the NJRs feel that JB USA has enough capacity to support the National Service Project Committee, Section 13 Parts A-F will take effect and the National Service Project Committee as well as the National Service Project Committee Chair will be selected at the upcoming National Junior Branch Meeting.
+
